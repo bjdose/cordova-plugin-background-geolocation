@@ -2,6 +2,7 @@
 /*
 
 # only include project files
+!/.gitmodules
 !/.npmignore
 !/*.md
 !/plugin.xml
